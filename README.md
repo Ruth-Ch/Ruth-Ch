@@ -7,12 +7,7 @@
 ---
 
 ### 💡 About Me
-
-- Rising sophomore exploring the intersection of **AI, NLP, and software development**
-- Participant in **AI4ALL Ignite**, building an SMS **Scam Detection Classifier**
-- Completed **Break Through Tech AI** + **Machine Learning Foundations @ Cornell Tech**
-- Created **WhitLink**, a student networking web app using HTML, CSS, JS, and Firebase
-- Currently learning Python, ML algorithms, and preparing for technical interviews (CodePath)
+I'm a rising sophomore at Whitman College majoring in Computer Science and Data Science. I'm passionate about using technology to solve real-world problems, especially in the areas of artificial intelligence, natural language processing, and software development. This summer, I built an SMS scam detection classifier using Python, Streamlit, and machine learning models through AI4ALL Ignite. I also completed the Break Through Tech AI program and the Machine Learning Foundations course at Cornell Tech, where I learned how to design, build, and evaluate ML models. One of my favorite projects so far has been WhitLink, a web app I created to help students connect based on shared backgrounds and interests. Right now, I’m focused on strengthening my Python and algorithm skills while preparing for technical interviews through CodePath.
 
 ---
 
