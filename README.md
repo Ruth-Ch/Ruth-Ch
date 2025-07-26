@@ -1,6 +1,12 @@
 ## Hi there 👋
 ### 💡 About Me
-I'm Ruth, a rising sophomore at Whitman College majoring in Computer Science and Data Science. I'm passionate about using technology to solve real-world problems, especially in the areas of artificial intelligence and software development. This summer, I built an SMS scam detection classifier using Python, Streamlit, and machine learning models through AI4ALL Ignite. I also completed the Break Through Tech AI program and the Machine Learning Foundations course at Cornell Tech, where I learned how to design, build, and evaluate ML models. One of my favorite projects so far has been WhitLink, a web app I created to help students connect based on shared backgrounds and interests. Right now, I’m focused on strengthening my Python and algorithm skills by practicing LeetCode.
+I'm Ruth, a rising sophomore at Whitman College majoring in Computer Science and Data Science. I’m passionate about applying AI and software to real-world problems.
+
+This summer, I completed Cornell Tech’s Machine Learning Foundations course and the AI4ALL Ignite program. I worked on an SMS scam detection app using Python, Streamlit, and a Random Forest model. I focused on data cleaning, feature engineering, model evaluation with a confusion matrix, and deployed the app for real-time use.
+
+My favorite project so far is WhitLink, a student networking web app built with HTML, CSS, JavaScript, and Firebase. It helps students connect through shared backgrounds and won first place at a campus hackathon.
+
+I'm currently focused on strengthening my Python and problem-solving skills through LeetCode while preparing for software engineering internships.
 ****
 
 ### 🖥️ Tech Stack
