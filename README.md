@@ -1,13 +1,6 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm Ruth</h1>
-<p align="center">
-  CS + Data Science @ Whitman College · AI & Software Enthusiast · Aspiring SWE Intern  
-</p>
-
----
-
 ### 💡 About Me
-I'm a rising sophomore at Whitman College majoring in Computer Science and Data Science. I'm passionate about using technology to solve real-world problems, especially in the areas of artificial intelligence, natural language processing, and software development. This summer, I built an SMS scam detection classifier using Python, Streamlit, and machine learning models through AI4ALL Ignite. I also completed the Break Through Tech AI program and the Machine Learning Foundations course at Cornell Tech, where I learned how to design, build, and evaluate ML models. One of my favorite projects so far has been WhitLink, a web app I created to help students connect based on shared backgrounds and interests. Right now, I’m focused on strengthening my Python and algorithm skills while preparing for technical interviews through CodePath.
+I'm Ruth,a rising sophomore at Whitman College majoring in Computer Science and Data Science. I'm passionate about using technology to solve real-world problems, especially in the areas of artificial intelligence, natural language processing, and software development. This summer, I built an SMS scam detection classifier using Python, Streamlit, and machine learning models through AI4ALL Ignite. I also completed the Break Through Tech AI program and the Machine Learning Foundations course at Cornell Tech, where I learned how to design, build, and evaluate ML models. One of my favorite projects so far has been WhitLink, a web app I created to help students connect based on shared backgrounds and interests. Right now, I’m focused on strengthening my Python and algorithm skills while preparing for technical interviews through CodePath.
 
 ---
 
