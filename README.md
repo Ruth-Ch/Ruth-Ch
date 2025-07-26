@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 💡 About Me
-**I'm Ruth, a rising sophomore at Whitman College majoring in Computer Science and Data Science. I'm passionate about using technology to solve real-world problems, especially in the areas of artificial intelligence and software development. This summer, I built an SMS scam detection classifier using Python, Streamlit, and machine learning models through AI4ALL Ignite. I also completed the Break Through Tech AI program and the Machine Learning Foundations course at Cornell Tech, where I learned how to design, build, and evaluate ML models. One of my favorite projects so far has been WhitLink, a web app I created to help students connect based on shared backgrounds and interests. Right now, I’m focused on strengthening my Python and algorithm skills by practicing LeetCode.
+I'm Ruth, a rising sophomore at Whitman College majoring in Computer Science and Data Science. I'm passionate about using technology to solve real-world problems, especially in the areas of artificial intelligence and software development. This summer, I built an SMS scam detection classifier using Python, Streamlit, and machine learning models through AI4ALL Ignite. I also completed the Break Through Tech AI program and the Machine Learning Foundations course at Cornell Tech, where I learned how to design, build, and evaluate ML models. One of my favorite projects so far has been WhitLink, a web app I created to help students connect based on shared backgrounds and interests. Right now, I’m focused on strengthening my Python and algorithm skills by practicing LeetCode.
 ****
 
 ### 🖥️ Tech Stack
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
