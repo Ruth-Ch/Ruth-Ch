@@ -38,11 +38,3 @@ I'm Ruth, a rising sophomore at Whitman College majoring in Computer Science and
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ruth-Ch&icon=5&color=6"/>
-</p>
-
-<p align="center">
-  Built with curiosity, code, and purpose.
-</p>
