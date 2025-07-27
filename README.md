@@ -7,6 +7,8 @@ This summer, I completed Cornell Tech’s Machine Learning Foundations course an
 My favorite project so far is WhitLink, a student networking web app built with HTML, CSS, JavaScript, and Firebase. It helps students connect through shared backgrounds and won first place at a campus hackathon.
 
 I'm currently focused on strengthening my Python and problem-solving skills through LeetCode while preparing for software engineering internships.
+Reach me at: chaner@whitman.edu
+
 ****
 
 ### 🖥️ Tech Stack
